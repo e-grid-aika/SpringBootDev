@@ -1,7 +1,7 @@
-package com.example.springboottodo.controller;
+package com.example.SpringBootTodo.controller;
 
-import com.example.springboottodo.model.Todo;
-import com.example.springboottodo.repository.TodoRepository;
+import com.example.SpringBootTodo.model.Todo;
+import com.example.SpringBootTodo.repository.TodoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
